@@ -5,5 +5,6 @@ public class Main {
 
   public static void main(String[] args) {
     myMethod();
+    System.out.println("Welcome to world java");
   }
 }
